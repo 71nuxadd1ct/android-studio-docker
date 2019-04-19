@@ -1,6 +1,6 @@
-FROM ubuntu:17.10
+FROM ubuntu:latest
 
-MAINTAINER Simon Egli <docker_android_studio_860dd6@egli.online>
+MAINTAINER Will Cassada <71nuxadd1ct@gmail.com>
 
 ARG USER=android
 
